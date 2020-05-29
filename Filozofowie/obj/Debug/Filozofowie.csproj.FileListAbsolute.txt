@@ -1,0 +1,21 @@
+C:\Users\sebos\source\repos\Projekt2\Filozofowie\bin\Debug\Filozofowie.exe.config
+C:\Users\sebos\source\repos\Projekt2\Filozofowie\bin\Debug\Filozofowie.exe
+C:\Users\sebos\source\repos\Projekt2\Filozofowie\bin\Debug\Filozofowie.pdb
+C:\Users\sebos\source\repos\Projekt2\Filozofowie\obj\Debug\Filozofowie.csprojAssemblyReference.cache
+C:\Users\sebos\source\repos\Projekt2\Filozofowie\obj\Debug\Filozofowie.csproj.CoreCompileInputs.cache
+C:\Users\sebos\source\repos\Projekt2\Filozofowie\obj\Debug\Filozofowie.exe
+C:\Users\sebos\source\repos\Projekt2\Filozofowie\obj\Debug\Filozofowie.pdb
+C:\Users\sebos\OneDrive\Pulpit\Informatyka\V semestr\Materiały\Programowanie wielowątkowe\Projekty\Projekt2\Filozofowie\bin\Debug\Filozofowie.exe.config
+C:\Users\sebos\OneDrive\Pulpit\Informatyka\V semestr\Materiały\Programowanie wielowątkowe\Projekty\Projekt2\Filozofowie\bin\Debug\Filozofowie.exe
+C:\Users\sebos\OneDrive\Pulpit\Informatyka\V semestr\Materiały\Programowanie wielowątkowe\Projekty\Projekt2\Filozofowie\bin\Debug\Filozofowie.pdb
+C:\Users\sebos\OneDrive\Pulpit\Informatyka\V semestr\Materiały\Programowanie wielowątkowe\Projekty\Projekt2\Filozofowie\obj\Debug\Filozofowie.csprojAssemblyReference.cache
+C:\Users\sebos\OneDrive\Pulpit\Informatyka\V semestr\Materiały\Programowanie wielowątkowe\Projekty\Projekt2\Filozofowie\obj\Debug\Filozofowie.csproj.CoreCompileInputs.cache
+C:\Users\sebos\OneDrive\Pulpit\Informatyka\V semestr\Materiały\Programowanie wielowątkowe\Projekty\Projekt2\Filozofowie\obj\Debug\Filozofowie.exe
+C:\Users\sebos\OneDrive\Pulpit\Informatyka\V semestr\Materiały\Programowanie wielowątkowe\Projekty\Projekt2\Filozofowie\obj\Debug\Filozofowie.pdb
+C:\Users\sebos\OneDrive\Pulpit\Projekty\Projekt2\Filozofowie\bin\Debug\Filozofowie.exe.config
+C:\Users\sebos\OneDrive\Pulpit\Projekty\Projekt2\Filozofowie\bin\Debug\Filozofowie.exe
+C:\Users\sebos\OneDrive\Pulpit\Projekty\Projekt2\Filozofowie\bin\Debug\Filozofowie.pdb
+C:\Users\sebos\OneDrive\Pulpit\Projekty\Projekt2\Filozofowie\obj\Debug\Filozofowie.csprojAssemblyReference.cache
+C:\Users\sebos\OneDrive\Pulpit\Projekty\Projekt2\Filozofowie\obj\Debug\Filozofowie.csproj.CoreCompileInputs.cache
+C:\Users\sebos\OneDrive\Pulpit\Projekty\Projekt2\Filozofowie\obj\Debug\Filozofowie.exe
+C:\Users\sebos\OneDrive\Pulpit\Projekty\Projekt2\Filozofowie\obj\Debug\Filozofowie.pdb

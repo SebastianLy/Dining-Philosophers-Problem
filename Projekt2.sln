@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28306.52
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Filozofowie", "Filozofowie\Filozofowie.csproj", "{A0AC6C84-5A2D-4D71-B091-1B1D94C4CD42}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A0AC6C84-5A2D-4D71-B091-1B1D94C4CD42}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0AC6C84-5A2D-4D71-B091-1B1D94C4CD42}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0AC6C84-5A2D-4D71-B091-1B1D94C4CD42}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0AC6C84-5A2D-4D71-B091-1B1D94C4CD42}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1ADC3E5D-ACFC-4482-956C-24C40951B79D}
+	EndGlobalSection
+EndGlobal
